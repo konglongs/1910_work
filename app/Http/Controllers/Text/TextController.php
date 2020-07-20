@@ -8,6 +8,10 @@ use Illuminate\Http\Request;
 class TextController extends Controller
 {
     public function yangxiaokai(){
+
         echo "kwl";
+
+
+
     }
 }
